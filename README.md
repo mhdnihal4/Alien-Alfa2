@@ -45,7 +45,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/SafwanGanz/Aien-Alfa2
+git clone https://github.com/mhdnihal4/Alien-Alfa2
 cd Alien-Alfa2
 npm install
 ```
